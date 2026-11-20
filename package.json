@@ -1,0 +1,27 @@
+{
+  "name": "-clone-tabnews-ia",
+  "version": "1.0.0",
+  "description": "Implementação do https://tabnews.com.br para o https://curso.dev utilizando de IA",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbarbosnn/-clone-tabnews-ia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/gbarbosnn/-clone-tabnews-ia/issues"
+  },
+  "homepage": "https://github.com/gbarbosnn/-clone-tabnews-ia#readme",
+  "dependencies": {
+    "next": "16.2.12",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
